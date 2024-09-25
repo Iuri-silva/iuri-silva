@@ -53,10 +53,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/iuri-silva/iuri-silva/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">CONTACT ME 📞</p>
 
 ###
